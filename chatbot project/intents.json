@@ -1,0 +1,44 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning"],
+      "responses": ["Hello! How can I help you today?"]
+    },
+    {
+      "tag": "order_status",
+      "patterns": ["where is my order", "track my order", "order status"],
+      "responses": ["Please share your order ID so I can help track it."]
+    },
+    {
+      "tag": "refund",
+      "patterns": ["i want refund", "refund policy", "return my money"],
+      "responses": ["Refunds are processed within 5-7 business days after approval."]
+    },
+    {
+      "tag": "payment_issue",
+      "patterns": ["payment failed", "transaction failed", "i cannot pay"],
+      "responses": ["Please retry with another payment method or contact your bank."]
+    },
+    {
+      "tag": "product_info",
+      "patterns": ["product details", "tell me about product", "product information"],
+      "responses": ["Please mention the product name so I can give details."]
+    },
+    {
+      "tag": "complaint",
+      "patterns": ["i have complaint", "bad service", "not satisfied"],
+      "responses": ["Sorry for the inconvenience. Please describe your issue."]
+    },
+    {
+      "tag": "contact_support",
+      "patterns": ["contact support", "customer care", "help center"],
+      "responses": ["You can contact support at support@example.com."]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "goodbye", "see you"],
+      "responses": ["Goodbye! Have a great day."]
+    }
+  ]
+}
