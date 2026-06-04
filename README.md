@@ -1,24 +1,26 @@
-# Task 2 - Real-Time Object Detection
+# RD INFRO TECHNOLOGY Internship Tasks
 
-This project detects objects in real-time using webcam input.
+## Task 1 - AI Customer Support Chatbot ✅
+- Python
+- Flask
+- Scikit-Learn
+- NLP
 
-## Technologies Used
+Folder:
+- chatbot project
+
+---
+
+## Task 2 - Real-Time Object Detection ✅
 - Python
 - OpenCV
 - YOLOv8
 - Ultralytics
 
-## Features
-- Real-time webcam detection
-- Object bounding boxes
-- Confidence score display
-- Detects people and common objects
+Files:
+- object_detection.py
+- requirements.txt
 
-## How to Run
-Run the project:
+---
 
-```bash
-python object_detection.py
-```
-
-Press Q to stop the webcam window.
+This repository contains all internship tasks completed during the RD INFRO TECHNOLOGY internship.
