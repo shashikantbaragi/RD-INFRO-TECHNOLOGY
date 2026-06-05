@@ -1,0 +1,11 @@
+fever,cough,headache,fatigue,disease
+1,1,1,1,Flu
+1,1,0,1,Cold
+0,0,1,0,Migraine
+1,0,1,1,COVID
+0,1,0,0,Allergy
+1,1,1,0,Flu
+1,0,0,1,COVID
+0,1,0,1,Cold
+0,0,1,1,Migraine
+0,1,0,0,Allergy
