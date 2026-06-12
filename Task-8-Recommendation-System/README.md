@@ -1,0 +1,24 @@
+# AI Recommendation System
+
+## Description
+A recommendation system that suggests movies based on genre similarity.
+
+## Technologies Used
+- Python
+- Pandas
+- Streamlit
+
+## Features
+- Movie recommendation
+- Genre-based filtering
+- Interactive UI
+
+## How to Run
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run application:
+
+streamlit run app.py
