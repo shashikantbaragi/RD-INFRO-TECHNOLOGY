@@ -1,0 +1,21 @@
+# Handwritten Digit Recognition System
+
+## Description
+AI system that recognizes handwritten digits using Machine Learning.
+
+## Technologies Used
+- Python
+- Streamlit
+- Scikit-Learn
+
+## Features
+- Digit recognition
+- Machine Learning model
+- Interactive UI
+
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
